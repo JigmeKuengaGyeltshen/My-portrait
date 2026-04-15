@@ -25,7 +25,7 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Jigme Kuenga Gyeltshen
 
 **Title / Role** — student
 
@@ -42,10 +42,9 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🎓 Education
 
-| Year | Degree / Grade | School |
+| Year |  Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2025 – Present | 8 | TRA|
 
 ## 🛠️ Skills
 
@@ -73,7 +72,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 - 🔬 **Research Area 1** — Brief description of your interest
 - 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
+- 🏃 **Sports / Activity** — Football
 - 📚 **Reading / Learning** — Brief description
 
 <hr class="section-divider">
