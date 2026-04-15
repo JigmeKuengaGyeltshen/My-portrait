@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Introduction About Me
 ---
 
 # About Me
@@ -29,10 +29,9 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Pain is temporary, but the regret of not trying lasts far longer.”_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+Hi, my name is Jigme Kuenga Gyeltshen. I am a Grade 8 student who is passionate about learning, growing, and exploring new ideas every day. I believe that with curiosity, consistency, and hard work, I can achieve my goals and build a bright future. 
 
 </div>
 
@@ -50,14 +49,14 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 <div markdown>
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
+<span class="skill-badge">Study</span>
+<span class="skill-badge">coding</span>
+<span class="skill-badge">Sports</span>
+<span class="skill-badge">Time management</span>
 <span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">Good habit</span>
+<span class="skill-badge">Writing</span>
+<span class="skill-badge">Self leadership</span>
 
 </div>
 
@@ -70,10 +69,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Football
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Exploring new ideas** — I enjoy thinking creatively and being open to new concepts.
+- 🎨 **Painting and Drawing** — I enjoy expressing my creativity through art. 
+- 🏃 **Sports** — I enjoy playing different sports as they keep me healthy and active.
+- 📚 **Reading / Writing** — I enjoy reading and writing because it helps me learn new ideas.
 
 <hr class="section-divider">
 
@@ -81,7 +80,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+|  GitHub | [GKJAcho](https://github.com/yourusername) |
+| LinkedIn | [Jigme Kuenga Gyeltshen]](https://linkedin.com/in/GKJAcho) |
+| Email | [jigme.kgyeltshen2025@academy.bt](mailto:jigme.kgyeltshen2025@academy.bt) |
+| Website | [https://jigmekuengagyeltshen.github.io/My-portrait/](https://yourwebsite.com) |
